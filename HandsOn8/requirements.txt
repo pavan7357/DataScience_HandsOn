@@ -1,0 +1,7 @@
+torch
+transformers
+gradio
+peft
+sentence-transformers
+faiss-cpu
+streamlit
